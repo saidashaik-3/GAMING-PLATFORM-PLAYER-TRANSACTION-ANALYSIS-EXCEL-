@@ -1,0 +1,2 @@
+# GAMING-PLATFORM-PLAYER-TRANSACTION-ANALYSIS-EXCEL-
+GAMING PLATFORM PLAYER &amp; TRANSACTION ANALYSIS (EXCEL) Built an interactive Excel dashboard analyzing 500+ player records across 6 months.    Examined player engagement levels (High, Medium, Low) and purchase behavior  using pivot tables and slicers. Detected suspicious activity among high-engagement players, improving fraud monitoring insights.
